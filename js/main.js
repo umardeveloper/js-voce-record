@@ -34,7 +34,6 @@ rec.onresult = function (evt) {
 
 
 recBtn.addEventListener('click', function () {
-	console.log('==== Aloqa boshlandi ====');
 	rec.start();
 });
 
