@@ -38,6 +38,7 @@ recBtn.addEventListener('click', function () {
 	rec.start();
 });
 
-// Asadbek aka o'zm qldm ko'chrmadm
+
+
 
 
