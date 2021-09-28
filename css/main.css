@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+body{
+    background-image: url('https://lh5.googleusercontent.com/proxy/xvtq6_782kBajCBr0GISHpujOb51XLKUeEOJ2lLPKh12-xNBTCtsoHT14NQcaH9l4JhatcXEMBkqgUeCWhb3XhdLnD1BiNzQ_LVydwg=w3840-h2160-p-k-no-nd-mv');
+    background-size: cover;
+    background-repeat: no-repeat no-repeat;
+    }   
+                                                                                 
+    iframe{
+        margin: 0 auto;
+        display: block;
+        width: 853px;
+        height: 480px;
+        margin-bottom: 30px;
+    }
